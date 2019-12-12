@@ -1,4 +1,4 @@
-# lab-14
+# Database Normalization
 
 Number and name of feature: Database Normalization
 
